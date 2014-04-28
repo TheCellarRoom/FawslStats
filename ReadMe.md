@@ -1,6 +1,6 @@
-##### kutf.co.uk
+##### fawslstats.tumblr.com
 
-> Tumblr theme for Kutf.co.uk
+> Tumblr theme for fawslstats.tumblr.com
 
 
-To view the site visit Kutf.co.uk
+To view the site visit fawslstats.tumblr.com
